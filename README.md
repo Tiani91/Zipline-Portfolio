@@ -70,10 +70,10 @@
       </div>
        <div class="row">
       <div class="col-md-4 portfoliotopic">
-        <a href="#" target="blank_" class="thumbnail"> <img src="http://www.aflynx.com/images/under_construction.gif" class="img-responsive" alt=""></a>
+        <a href="http://codepen.io/Tiani91/full/GZOREO/" target="blank_" class="thumbnail"> <img src="http://www.blurb.com/images/uploads/catalog/59/3100659/3307610-a0906e7c044338de6349a91abc9326a6.jpg" class="img-responsive" alt=""></a>
         <div class="ProjectTitle text-center">
-          <h4>No Project Yet</h4>
-          <p>No project description yet</p>
+          <h4>Random Quote Generator</h4>
+          <p>HTML Bootstrap/CSS JavaScript/jQuery</p>
         </div>
       </div>
          <div class="row">
